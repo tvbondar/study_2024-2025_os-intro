@@ -1,3 +1,16 @@
+# 1.0.0 (2025-03-09)
+
+
+### Features
+
+* add file ([62bb343](https://github.com/tvbondar/study_2024-2025_os-intro/commit/62bb343ad1ba445fec282f026e934d9b3315f388))
+* **main:** add files project personal stage 5 ([6dbb5e5](https://github.com/tvbondar/study_2024-2025_os-intro/commit/6dbb5e5e6c37c8c0623e2de4ac093855ddd92e3c))
+* **main:** add files project personal stage6 ([013e653](https://github.com/tvbondar/study_2024-2025_os-intro/commit/013e653781a9204567a082afa8909f35d996daaa))
+* **main:** add files project-personal ([4b2a085](https://github.com/tvbondar/study_2024-2025_os-intro/commit/4b2a08581eb0a30802c829fdaa39e0c8395c1f31))
+* **main:** add files project-personal ([2a75472](https://github.com/tvbondar/study_2024-2025_os-intro/commit/2a75472c4443a12428faa310e83a330d5edc9b09))
+
+
+
 ## [1.0.10](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.9...v1.0.10) (2025-02-10)
 
 
