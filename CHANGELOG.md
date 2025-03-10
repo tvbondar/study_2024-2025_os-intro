@@ -1,3 +1,12 @@
+# [1.0.0](https://github.com/tvbondar/study_2024-2025_os-intro/compare/1.10.0...1.0.0) (2025-03-10)
+
+
+### Features
+
+* add files lab08 ([15b19ed](https://github.com/tvbondar/study_2024-2025_os-intro/commit/15b19ed0c47acc6ec24bfb7e950f0b334e22ebc1))
+
+
+
 # 1.0.0 (2025-03-09)
 
 
