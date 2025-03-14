@@ -1,3 +1,12 @@
+# [1.0.0](https://github.com/tvbondar/study_2024-2025_os-intro/compare/1.11.0...1.0.0) (2025-03-14)
+
+
+### Features
+
+* add files lab 09 and 10 ([adb10b3](https://github.com/tvbondar/study_2024-2025_os-intro/commit/adb10b3435707872e9c97eed775bd5127abb95d4))
+
+
+
 # [1.0.0](https://github.com/tvbondar/study_2024-2025_os-intro/compare/1.10.0...1.0.0) (2025-03-10)
 
 
